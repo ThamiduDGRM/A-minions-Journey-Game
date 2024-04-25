@@ -1,0 +1,12 @@
+{
+  "name": "A Minons Journey",
+  "short_name": "A Minons Journey",
+  "id": "com.example.gamename",
+  "description": "",
+  "orientation": "any",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "black",
+  "categories": ["games", "entertainment"],
+  "icons": []
+}
